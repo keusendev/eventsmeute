@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "eventmeute",
-    "currentPage": "index.html",
+    "currentPage": "winter21.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -42,8 +42,8 @@
     ],
     "uniqCompNum": 3,
     "versionPublish": "5.4.1",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-96x96.ico",
-    "mbrsiteDomain": "vfwaq9cnki",
+    "favicon": false,
+    "mbrsiteDomain": "67cgvnchcu",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
