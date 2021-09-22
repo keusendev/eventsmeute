@@ -683,5 +683,13 @@ a {
   transition: color 0.6s;
 }
 .cid-sJLAVvxYhN {
-  background-image: url("../../../assets/images/background11.jpg");
+  background-image: url("../../../assets/images/mbr-2.jpg");
+}
+.cid-sJLAVvxYhN .mbr-section-title {
+  text-align: center;
+  color: #fafafa;
+}
+.cid-sJLAVvxYhN .mbr-text,
+.cid-sJLAVvxYhN .mbr-section-btn {
+  color: #fafafa;
 }
