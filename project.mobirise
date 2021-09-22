@@ -43,16 +43,17 @@
     "uniqCompNum": 3,
     "versionPublish": "5.4.1",
     "favicon": false,
-    "mbrsiteDomain": "95jxdhnck9",
+    "mbrsiteDomain": "67cgvnchcu",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "siteUrl": "https://events.diemeute.ch",
     "cookiesAlert": false,
     "gdpr": false,
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@/export"
+    "publishPath": "@PROJECT_PATH@/export",
+    "google-analytics": "<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{\"token\": \"193c8b70cf46403b97b9dc5d994a08aa\"}'></script><!-- End Cloudflare Web Analytics -->"
   },
   "pages": {
     "index.html": {
